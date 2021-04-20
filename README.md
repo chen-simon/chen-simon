@@ -1,6 +1,5 @@
 ### Hi there 👋
-##### my name is Simon Chen!
-
+#### my name is Simon Chen!
 - 🔭 I'm currently working on a lot of web projects
 - 👨‍💻 My favourite programming languages are C#, Java, and Python
 - 🎮 I enjoy making video games, usually in the Unity game engine
