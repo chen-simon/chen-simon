@@ -5,5 +5,5 @@
 - 🐍 Going to be working on the [PyTA](https://github.com/pyta-uoft/pyta) development team in the summer!! 😎
 - 🌲 Currently studying Computer Science at the University of Toronto!
 - 🎨 I enjoy drawing and animating
-- 🌎 Rapidly trying to improve at web development like HTML, CSS, Javascript, and ReactJS
+- 🌎 Rapidly trying to improve at web development tools like HTML, CSS, Javascript, ReactJS, NodeJS, and Firebase!
 - 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/simon-chen-58a117208/)
