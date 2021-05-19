@@ -1,6 +1,6 @@
 ## Hello there, Wasteland Wanderer 👋
 #### My name is Simon Chen!
-- 👨‍💻 My favourite programming languages are C#, Python, Javascript, and Java
+- 👨‍💻 My favourite programming languages are Python, C#, and Javascript
 - 🎮 I enjoy making video games, usually in the Unity game engine
 - 🐍 Going to be working on the [PyTA](https://github.com/pyta-uoft/pyta) development team in the summer!! 😎
 - 🌲 Currently studying Computer Science at the University of Toronto!
