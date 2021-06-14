@@ -1,4 +1,4 @@
-## 👋 Hello there, GitHub Wanderer! 👋
+## 👋 Hello there! 👋
 #### My name is Simon Chen! Nice to meet you!
 - 👨‍💻 My favourite programming languages are Python, C#, and Javascript
 - 🎮 I enjoy making video games, usually in the Unity game engine
