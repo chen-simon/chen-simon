@@ -6,7 +6,7 @@
 - 🌲 Currently studying Computer Science at the University of Toronto!
 - 🎨 I enjoy drawing and animating
 - 🌎 Rapidly trying to improve at web development tools like HTML, CSS, Javascript, ReactJS, NodeJS, Flask, and Firebase!
-- 💻 I like participating in hackathons and other fun project events.
+- 💻 I enjoy participating in hackathons and other fun project events.
 
 ## 🔧 Tools
 ![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-C%23-<COLOR>?style=flat&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/​-Javascript-<COLOR>?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/​-Unity-0af?style=flat&logo=unity&logoColor=white) ![](https://img.shields.io/badge/​-VS_Code-0af?style=flat&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/​-React-0af?style=flat&logo=react&logoColor=white) ![](https://img.shields.io/badge/​-Flask-0af?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/​-Firebase-0af?style=flat&logo=firebase&logoColor=white) ![](https://img.shields.io/badge/​-Git-fa0?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/​-Figma-fa0?style=flat&logo=figma&logoColor=white)
