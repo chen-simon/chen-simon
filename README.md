@@ -5,7 +5,6 @@
 - 🐍 Currently working on the [PyTA](https://github.com/pyta-uoft/pyta) development team over the summer!! 😎
 - 🌲 Currently studying Computer Science at the University of Toronto!
 - 🎨 I enjoy drawing and animating
-- 🌎 Rapidly trying to improve at web development tools like HTML, CSS, Javascript, ReactJS, NodeJS, Flask, and Firebase!
 - 💻 I enjoy participating in hackathons and other fun project events.
 
 ## 🔧 Tools
