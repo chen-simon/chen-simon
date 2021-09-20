@@ -1,6 +1,6 @@
 ## 👋 Hello there! 👋
 #### My name is Simon Chen! Nice to meet you!
-- 👨‍💻 My favourite programming languages are **Python, C#, and Javascript**
+- 👨‍💻 My favourite programming languages are **Python**, **C#**, and **Javascript**
 - 🎮 I enjoy making video games, usually in the Unity game engine
 - 🌲 Currently studying Computer Science at the **University of Toronto**!
 - 🎨 I enjoy drawing and animating
