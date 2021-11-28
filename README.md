@@ -6,7 +6,6 @@
 - 🎮 I enjoy making video games, usually in the Unity game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
 - 🧮 Currently grinding Leetcode and CtCi problems to improve at coding problems!
-- 💽 Learning **C++** and learning to write application software!
 - 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
 
 ## 🔧 Tools
