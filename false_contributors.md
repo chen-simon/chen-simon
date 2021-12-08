@@ -3,3 +3,4 @@
 - Zaina Azhar
 - Patricia Ding
 - Mahbod Sabbaghi
+- Rachel Tang
