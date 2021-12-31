@@ -1,11 +1,10 @@
 ## 👋 Hello there! 👋
 #### My name is Simon Chen! Nice to meet you!
 - 👨‍💻 My favourite programming languages are **Python**, **C#**, and **Javascript**
-- 📚 On the road to writing great software, clean code, and clear documentation!
 - 🌲 Currently studying Computer Science at the **University of Toronto**!
 - 🎮 I enjoy making video games, usually in the Unity game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
-- 🧮 Currently grinding Leetcode and CtCi problems to improve at coding problems!
+- 🦌 Currently part of the [UofT Hacks IX](https://uofthacks.com/) exceutive and web development team
 - 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
 
 ## 🔧 Tools
