@@ -11,7 +11,7 @@
 
 ᛋᛟᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᛟᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᛟᚹ ᛏᛟ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᛟᚹᚾ ᚱᚢᚾᛁᚳ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᛟᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᛟᚹ
 
-![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ship.gif)![](images/ocean_wave.gif)![](images/ocean_wave.gif)
+![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ocean_wave.gif)![](images/ship.gif)![](images/ocean_wave.gif)
 
 ---
 ## 🔨 Tools at Sea
