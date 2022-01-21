@@ -8,7 +8,7 @@
 - 🦌 Currently part of the [UofT Hacks IX](https://uofthacks.com/) exceutive and web development team
 - 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
 
-ᛋᛟᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᛟᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᛟᚹ ᛏᛟ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᛟᚹᚾ ᚱᚢᚾᛁᚳ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᛟᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᛟᚹ
+ᛋᚩᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᚩᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᚩᚹ ᛏᚩ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᚩᚹᚾ ᚱᚢᚾᛖ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᚩᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᚩᚹ
 
 <img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ship.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%>
 ---
