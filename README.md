@@ -6,7 +6,6 @@
 - 🎮 I enjoy making video games, usually in the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
 - 🦌 Currently part of the [UofT Hacks IX](https://uofthacks.com/) exceutive and web development team
-- 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
 
 ᛋᚩᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᚩᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᚩᚹ ᛏᚩ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᚩᚹᚾ ᚱᚢᚾᛖ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᚩᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᚩᚹ
 
