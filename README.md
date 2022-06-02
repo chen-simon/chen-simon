@@ -5,7 +5,6 @@
 - 🌲 Currently studying Computer Science at the 🏫 **University of Toronto** 🍄
 - 🎮 I enjoy making video games, usually in the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
-- 🦌 Currently part of the [UofT Hacks IX](https://uofthacks.com/) exceutive and web development team
 - 🏥 Junior Full-Stack Infrastructure Developer at [Verto Health](https://verto.health/) (Summer 2022)
 
 ᛋᚩᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᚩᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᚩᚹ ᛏᚩ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᚩᚹᚾ ᚱᚢᚾᛖ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᚩᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᚩᚹ
