@@ -1,7 +1,7 @@
 ## \*:･ﾟ\*✧:･ﾟ✧ 👋 Good day to you, dear Traveller!! 🗺️ \*:･ﾟ\*✧:･ﾟ✧
 #### My name is Simon Chen! Nice to meet you! Welcome aboard my little ship! 🌊 ⚔️ 🍺
 > *"Don’t cry because it’s over, smile because it happened."* —Dr. Seuss 
-- 👨‍💻 My favourite programming languages are **Python**, **C#**, and **Javascript**
+- 👨‍💻 My favourite web frameworks are **Flask**, **Vue**, and **React**
 - 🌲 Currently studying Computer Science at the 🏫 **University of Toronto** 🍄
 - 🎮 I enjoy making video games, usually in the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
