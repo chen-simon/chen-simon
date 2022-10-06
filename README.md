@@ -5,6 +5,7 @@
 - 🌲 Currently studying Computer Science at the 🏫 **University of Toronto** 🍄
 - 🎮 I enjoy making video games, usually in the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 💻 I enjoy participating in hackathons and other fun project events
+- 🔍 Currently searching for Software Engineer Internship Positions! (Summer 2023, Fall 2023, Winter 2024, Summer 2024)
 
 ᛋᚩᛗᛖᛏᛁᛗᛖᛋ ᛁᛚᛚ ᛚᛖᚫᚱᚾ ᚱᚫᚾᛞᚩᛗ ᚦᛝᛋ ᛚᛁᚴᛖ ᚻᚩᚹ ᛏᚩ ᛏᚣᛈᛖ ᚫᚾᛞ ᚱᛖᚫᛞ ᛗᚣ ᚩᚹᚾ ᚱᚢᚾᛖ ᚫᛚᛈᚻᚫᛒᛖᛏ ᛡᚢᛋᛏ ᚠᚩᚱ ᚠᚢᚾ᛫᛫᛫ ᚦᚫᛏᛋ ᛗᚣ ᛋᚻᛁᛈ ᛒᛖᛚᚩᚹ
 
