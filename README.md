@@ -15,4 +15,3 @@
 
 ## 👥💬 Networking Tavern 🍺
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-chen-sc/) [![](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SimonChen2002/) [![](https://img.shields.io/badge/Instagram-f66?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0x80070570/)
-
