@@ -5,7 +5,8 @@
 - 🌲 Currently studying Computer Science at the 🏫 **University of Toronto** 🍄
 - 🎮 I enjoy making video games, usually in the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 🚄 Currently learning more about contributing to large open source projects!
-- 🔍 Currently searching for :sparkles: **Software Engineering Internship** :sparkles: positions! (Summer 2023, Fall 2023, Winter 2024, Summer 2024)
+- 🌎 Upcomping Software Engineering Intern at AMD (May 2023 - April 2024)
+- 🔍 Currently searching for :sparkles: **Software Engineering Internship** :sparkles: positions! (Summer 2024)
 
 <img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ship.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%>
 ---
