@@ -15,5 +15,5 @@
 Please feel free to reach out to me at anytime :)
 
 [![](https://img.shields.io/badge/Email-f66?style=flat-square&logo=maildotru&logoColor=white)](mailto:simonchen.sc.2002@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-chen-sc/) [![](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SimonChen2002/) [![](https://img.shields.io/badge/Instagram-f66?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chen-simonnn/)
+[![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-chen-sc/) [![](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SimonChen2002/) [![](https://img.shields.io/badge/Instagram-f66?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chen_simonnn/)
 
