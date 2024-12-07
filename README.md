@@ -5,7 +5,7 @@
 - 🎮 I am a game designer! I use the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 🚄 Constantly learning more about game design and leadership
 
-<img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ship.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%><img src="images/ocean_wave.gif" width=12.5%>
+<img src="images/ocean_wave.gif"><img src="images/ocean_wave.gif"><img src="images/ocean_wave.gif"><img src="images/ocean_wave.gif"><img src="images/ocean_wave.gif"><img src="images/ship.gif"><img src="images/ocean_wave.gif"><img src="images/ocean_wave.gif">
 ---
 
 ## 💬 Networking Tavern 🍺
