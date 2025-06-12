@@ -1,7 +1,7 @@
 ## \*:･ﾟ\*✧:･ﾟ✧ 👋 Good day to you, dear Traveller!! 🗺️ \*:･ﾟ\*✧:･ﾟ✧
 #### My name is Simon Chen! Nice to meet you! Welcome aboard my little ship! 🌊 ⚔️ 🍺
 > *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* —Jeff Atwood
-- 🌲 Currently studying Computer Science at the 🏫 **University of Toronto** 🍄
+- 🌲 Graduated from the 🏫 **University of Toronto** 🍄 with a Computer Science Major and Math Minor
 - 🎮 I am a game designer! I use the **Unity** game engine, and I also enjoy 🎨 drawing and animating
 - 🚄 Constantly learning more about game design and leadership
 
